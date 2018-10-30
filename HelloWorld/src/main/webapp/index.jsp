@@ -1,4 +1,4 @@
 <html>
 <body>
-<font color="blue" size="8">WELCOME TO INDIA!</font> </body>
+<font color="blue" size="6">WELCOME</font> </body>
 </html>
